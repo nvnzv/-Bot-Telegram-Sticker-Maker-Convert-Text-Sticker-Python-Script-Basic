@@ -3,7 +3,7 @@
 # Cara pakai:
 # 1. Ganti 'YOUR_TELEGRAM_BOT_TOKEN' dengan token botmu
 # 2. Jalankan script ini (python bot.py)
-# 🔥 Untuk versi premium dengan auto delete command dan multi group support, beli di Lynk: https://lynk.id/navanza
+# 🔥 Untuk versi premium dengan auto delete command dan multi group support, beli di Lynk: https://lynk.id/nvnzv
 
 import telebot
 from PIL import Image, ImageDraw, ImageFont
